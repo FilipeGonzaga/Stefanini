@@ -1,0 +1,1038 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 10,
+        "name": "Verificar preenchimento obrigatório de todos os campos",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 4304857600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-11T12:21:56.179Z",
+        "line": 22,
+        "name": "Validar informações de preenchimento",
+        "description": "",
+        "id": "cadastrar-usuários-stafanini;validar-informações-de-preenchimento;;2",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 573596800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "preencho \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 9
+                }
+              ],
+              "location": "CadastroUsuarios.preencho(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 101064100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "preencho o \"filipegcsilva@yahoo.com.br\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"filipegcsilva@yahoo.com.br\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_o(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 88324400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "preencho a \"12345678\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"12345678\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_a(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 477859700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "clico em cadastrar",
+            "match": {
+              "location": "CadastroUsuarios.clico_em_cadastrar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1076758100,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"O campo Nome é obrigatório.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"O campo Nome é obrigatório.\"",
+                  "offset": 86
+                }
+              ],
+              "location": "CadastroUsuarios.verifico_se_não_consigo_logar_sem_preenchimento_de_algum_campo_obrigatório_através_da(String)"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@automacao"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Verificar preenchimento obrigatório de todos os campos",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 4981572700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-11T12:22:02.830Z",
+        "line": 23,
+        "name": "Validar informações de preenchimento",
+        "description": "",
+        "id": "cadastrar-usuários-stafanini;validar-informações-de-preenchimento;;3",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 542980600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "preencho \"Filipe Gonzaga Costa da Silva\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Filipe Gonzaga Costa da Silva\"",
+                  "offset": 9
+                }
+              ],
+              "location": "CadastroUsuarios.preencho(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 83746900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "preencho o \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_o(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 93709000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "preencho a \"12345678\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"12345678\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_a(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 484918800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "clico em cadastrar",
+            "match": {
+              "location": "CadastroUsuarios.clico_em_cadastrar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1122226900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"O campo E-mail é obrigatório.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"O campo E-mail é obrigatório.\"",
+                  "offset": 86
+                }
+              ],
+              "location": "CadastroUsuarios.verifico_se_não_consigo_logar_sem_preenchimento_de_algum_campo_obrigatório_através_da(String)"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@automacao"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Verificar preenchimento obrigatório de todos os campos",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 3357265700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-11T12:22:10.141Z",
+        "line": 24,
+        "name": "Validar informações de preenchimento",
+        "description": "",
+        "id": "cadastrar-usuários-stafanini;validar-informações-de-preenchimento;;4",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 530618900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "preencho \"Filipe Gonzaga Costa da Silva\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Filipe Gonzaga Costa da Silva\"",
+                  "offset": 9
+                }
+              ],
+              "location": "CadastroUsuarios.preencho(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 102375100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "preencho o \"filipegcsilva@yahoo.com.br\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"filipegcsilva@yahoo.com.br\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_o(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 89214000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "preencho a \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_a(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 473871900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "clico em cadastrar",
+            "match": {
+              "location": "CadastroUsuarios.clico_em_cadastrar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1083836500,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"O campo Senha é obrigatório.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"O campo Senha é obrigatório.\"",
+                  "offset": 86
+                }
+              ],
+              "location": "CadastroUsuarios.verifico_se_não_consigo_logar_sem_preenchimento_de_algum_campo_obrigatório_através_da(String)"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@automacao"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Verificar preenchimento obrigatório de todos os campos",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 3388040800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-11T12:22:15.780Z",
+        "line": 25,
+        "name": "Validar informações de preenchimento",
+        "description": "",
+        "id": "cadastrar-usuários-stafanini;validar-informações-de-preenchimento;;5",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 511579000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "preencho \"Filipe\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Filipe\"",
+                  "offset": 9
+                }
+              ],
+              "location": "CadastroUsuarios.preencho(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 102887300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "preencho o \"filipegcsilva@yahoo.com.br\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"filipegcsilva@yahoo.com.br\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_o(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 96768000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "preencho a \"12345678\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"12345678\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_a(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 473000300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "clico em cadastrar",
+            "match": {
+              "location": "CadastroUsuarios.clico_em_cadastrar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1395558000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"Por favor, insira um nome completo.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Por favor, insira um nome completo.\"",
+                  "offset": 86
+                }
+              ],
+              "location": "CadastroUsuarios.verifico_se_não_consigo_logar_sem_preenchimento_de_algum_campo_obrigatório_através_da(String)"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@automacao"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Verificar preenchimento obrigatório de todos os campos",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 3311458700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-11T12:22:21.750Z",
+        "line": 26,
+        "name": "Validar informações de preenchimento",
+        "description": "",
+        "id": "cadastrar-usuários-stafanini;validar-informações-de-preenchimento;;6",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 534624800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "preencho \"Filipe Gonzaga Costa da Silva\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Filipe Gonzaga Costa da Silva\"",
+                  "offset": 9
+                }
+              ],
+              "location": "CadastroUsuarios.preencho(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 96481900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "preencho o \"filipegcsilva\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"filipegcsilva\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_o(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 96090500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "preencho a \"12345678\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"12345678\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_a(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 468455900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "clico em cadastrar",
+            "match": {
+              "location": "CadastroUsuarios.clico_em_cadastrar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1417688800,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"Por favor, insira um e-mail válido.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Por favor, insira um e-mail válido.\"",
+                  "offset": 86
+                }
+              ],
+              "location": "CadastroUsuarios.verifico_se_não_consigo_logar_sem_preenchimento_de_algum_campo_obrigatório_através_da(String)"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@automacao"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Verificar preenchimento obrigatório de todos os campos",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 3501025300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-11T12:22:27.677Z",
+        "line": 27,
+        "name": "Validar informações de preenchimento",
+        "description": "",
+        "id": "cadastrar-usuários-stafanini;validar-informações-de-preenchimento;;7",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 529978500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "preencho \"Filipe Gonzaga Costa da Silva\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Filipe Gonzaga Costa da Silva\"",
+                  "offset": 9
+                }
+              ],
+              "location": "CadastroUsuarios.preencho(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 105087200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "preencho o \"filipegcsilva@yahoo.com.br\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"filipegcsilva@yahoo.com.br\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_o(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 86200900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "preencho a \"1234\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1234\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_a(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 475239800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "clico em cadastrar",
+            "match": {
+              "location": "CadastroUsuarios.clico_em_cadastrar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1094146700,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"A senha deve conter ao menos 8 caracteres.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"A senha deve conter ao menos 8 caracteres.\"",
+                  "offset": 86
+                }
+              ],
+              "location": "CadastroUsuarios.verifico_se_não_consigo_logar_sem_preenchimento_de_algum_campo_obrigatório_através_da(String)"
+            },
+            "keyword": "Então "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@automacao"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Verificar preenchimento obrigatório de todos os campos",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 3388877000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-11T12:22:33.471Z",
+        "line": 42,
+        "name": "Cadastrar usuário",
+        "description": "",
+        "id": "cadastrar-usuários-stafanini;cadastrar-usuário;;2",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 229867400,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 536294800,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "preencho \"Filipe Gonzaga Costa da Silva\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Filipe Gonzaga Costa da Silva\"",
+                  "offset": 9
+                }
+              ],
+              "location": "CadastroUsuarios.preencho(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 104453900,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "preencho o \"filipegcsilva@yahoo.com.br\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"filipegcsilva@yahoo.com.br\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_o(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 88654400,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "preencho a \"12345678\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"12345678\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_a(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 410936600,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "clico em cadastrar",
+            "match": {
+              "location": "CadastroUsuarios.clico_em_cadastrar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 749594200,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "valido se foi cadastrado corretamente \"Usuários cadastrados\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Usuários cadastrados\"",
+                  "offset": 38
+                }
+              ],
+              "location": "CadastroUsuarios.validoSeFoiCadastradoCorretamente(String)"
+            },
+            "keyword": "Então "
+          },
+          {
+            "result": {
+              "duration": 856415100,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "excluo para gerenciamento de massa",
+            "match": {
+              "location": "CadastroUsuarios.excluo_para_gerenciamento_de_massa()"
+            },
+            "keyword": "Mas "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@automacao"
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Verificar preenchimento obrigatório de todos os campos",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 3350408100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-11T12:22:39.840Z",
+        "line": 43,
+        "name": "Cadastrar usuário",
+        "description": "",
+        "id": "cadastrar-usuários-stafanini;cadastrar-usuário;;3",
+        "type": "scenario",
+        "keyword": "Esquema do Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 217558000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "que estou no site da Stefanini",
+            "match": {
+              "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 537997700,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "preencho \"Luiz Gonzaga da Silva\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Luiz Gonzaga da Silva\"",
+                  "offset": 9
+                }
+              ],
+              "location": "CadastroUsuarios.preencho(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 98584500,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "preencho o \"filipegcsilva@hotmail.com \"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"filipegcsilva@hotmail.com \"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_o(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 92371100,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "preencho a \"12345678\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"12345678\"",
+                  "offset": 11
+                }
+              ],
+              "location": "CadastroUsuarios.preencho_a(String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 412489600,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "clico em cadastrar",
+            "match": {
+              "location": "CadastroUsuarios.clico_em_cadastrar()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 731526900,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "valido se foi cadastrado corretamente \"Usuários cadastrados\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Usuários cadastrados\"",
+                  "offset": 38
+                }
+              ],
+              "location": "CadastroUsuarios.validoSeFoiCadastradoCorretamente(String)"
+            },
+            "keyword": "Então "
+          },
+          {
+            "result": {
+              "duration": 639015700,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "excluo para gerenciamento de massa",
+            "match": {
+              "location": "CadastroUsuarios.excluo_para_gerenciamento_de_massa()"
+            },
+            "keyword": "Mas "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@automacao"
+          }
+        ]
+      }
+    ],
+    "name": "Cadastrar Usuários Stafanini",
+    "description": "\tComo usuário do sistema.\n\tDesejo realizar o cadastro de novos usuários.\n\tPara seja possível armazenar e gerenciar seus dados.",
+    "id": "cadastrar-usuários-stafanini",
+    "keyword": "Funcionalidade",
+    "uri": "file:/D:/dimi_/Area%20de%20Trabalho/aulas/cucumber/Stefanini/src/test/java/CadastroUsuarios.feature",
+    "tags": [
+      {
+        "name": "@automacao",
+        "type": "Tag",
+        "location": {
+          "line": 2,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
