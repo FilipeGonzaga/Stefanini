@@ -31,7 +31,7 @@ formatter.step({
   "keyword": "Quando "
 });
 formatter.step({
-  "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \u003cmensagem\u003e",
+  "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \u003cmensagem\u003e",
   "keyword": "Então "
 });
 formatter.examples({
@@ -163,7 +163,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"O campo Nome é obrigatório.\"",
+  "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"O campo Nome é obrigatório.\"",
   "keyword": "Então "
 });
 formatter.match({
@@ -238,7 +238,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"O campo E-mail é obrigatório.\"",
+  "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"O campo E-mail é obrigatório.\"",
   "keyword": "Então "
 });
 formatter.match({
@@ -313,7 +313,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"O campo Senha é obrigatório.\"",
+  "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"O campo Senha é obrigatório.\"",
   "keyword": "Então "
 });
 formatter.match({
@@ -388,7 +388,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"Por favor, insira um nome completo.\"",
+  "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"Por favor, insira um nome completo.\"",
   "keyword": "Então "
 });
 formatter.match({
@@ -463,7 +463,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"Por favor, insira um e-mail válido.\"",
+  "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"Por favor, insira um e-mail válido.\"",
   "keyword": "Então "
 });
 formatter.match({
@@ -538,7 +538,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"A senha deve conter ao menos 8 caracteres.\"",
+  "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"A senha deve conter ao menos 8 caracteres.\"",
   "keyword": "Então "
 });
 formatter.match({

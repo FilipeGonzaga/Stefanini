@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4304857600,
+              "duration": 5698782000,
               "status": "passed"
             },
             "line": 11,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-11T12:21:56.179Z",
+        "start_timestamp": "2021-03-11T13:47:59.638Z",
         "line": 22,
         "name": "Validar informações de preenchimento",
         "description": "",
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 573596800,
+              "duration": 880112600,
               "status": "passed"
             },
             "line": 14,
@@ -52,7 +52,7 @@
           },
           {
             "result": {
-              "duration": 101064100,
+              "duration": 194307300,
               "status": "passed"
             },
             "line": 15,
@@ -70,7 +70,7 @@
           },
           {
             "result": {
-              "duration": 88324400,
+              "duration": 147543300,
               "status": "passed"
             },
             "line": 16,
@@ -88,7 +88,7 @@
           },
           {
             "result": {
-              "duration": 477859700,
+              "duration": 549408500,
               "status": "passed"
             },
             "line": 17,
@@ -100,11 +100,11 @@
           },
           {
             "result": {
-              "duration": 1076758100,
+              "duration": 1239186500,
               "status": "passed"
             },
             "line": 18,
-            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"O campo Nome é obrigatório.\"",
+            "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"O campo Nome é obrigatório.\"",
             "match": {
               "arguments": [
                 {
@@ -132,7 +132,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4981572700,
+              "duration": 3585850300,
               "status": "passed"
             },
             "line": 11,
@@ -145,7 +145,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-11T12:22:02.830Z",
+        "start_timestamp": "2021-03-11T13:48:08.390Z",
         "line": 23,
         "name": "Validar informações de preenchimento",
         "description": "",
@@ -155,7 +155,7 @@
         "steps": [
           {
             "result": {
-              "duration": 542980600,
+              "duration": 686020200,
               "status": "passed"
             },
             "line": 14,
@@ -173,7 +173,7 @@
           },
           {
             "result": {
-              "duration": 83746900,
+              "duration": 125810800,
               "status": "passed"
             },
             "line": 15,
@@ -191,7 +191,7 @@
           },
           {
             "result": {
-              "duration": 93709000,
+              "duration": 140480600,
               "status": "passed"
             },
             "line": 16,
@@ -209,7 +209,7 @@
           },
           {
             "result": {
-              "duration": 484918800,
+              "duration": 615693200,
               "status": "passed"
             },
             "line": 17,
@@ -221,11 +221,11 @@
           },
           {
             "result": {
-              "duration": 1122226900,
+              "duration": 1245590400,
               "status": "passed"
             },
             "line": 18,
-            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"O campo E-mail é obrigatório.\"",
+            "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"O campo E-mail é obrigatório.\"",
             "match": {
               "arguments": [
                 {
@@ -253,7 +253,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3357265700,
+              "duration": 3565869800,
               "status": "passed"
             },
             "line": 11,
@@ -266,7 +266,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-11T12:22:10.141Z",
+        "start_timestamp": "2021-03-11T13:48:14.792Z",
         "line": 24,
         "name": "Validar informações de preenchimento",
         "description": "",
@@ -276,7 +276,7 @@
         "steps": [
           {
             "result": {
-              "duration": 530618900,
+              "duration": 710448100,
               "status": "passed"
             },
             "line": 14,
@@ -294,7 +294,7 @@
           },
           {
             "result": {
-              "duration": 102375100,
+              "duration": 168607600,
               "status": "passed"
             },
             "line": 15,
@@ -312,7 +312,7 @@
           },
           {
             "result": {
-              "duration": 89214000,
+              "duration": 122704500,
               "status": "passed"
             },
             "line": 16,
@@ -330,7 +330,7 @@
           },
           {
             "result": {
-              "duration": 473871900,
+              "duration": 575936500,
               "status": "passed"
             },
             "line": 17,
@@ -342,11 +342,11 @@
           },
           {
             "result": {
-              "duration": 1083836500,
+              "duration": 1258859000,
               "status": "passed"
             },
             "line": 18,
-            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"O campo Senha é obrigatório.\"",
+            "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"O campo Senha é obrigatório.\"",
             "match": {
               "arguments": [
                 {
@@ -374,7 +374,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3388040800,
+              "duration": 3509036200,
               "status": "passed"
             },
             "line": 11,
@@ -387,7 +387,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-11T12:22:15.780Z",
+        "start_timestamp": "2021-03-11T13:48:21.199Z",
         "line": 25,
         "name": "Validar informações de preenchimento",
         "description": "",
@@ -397,7 +397,7 @@
         "steps": [
           {
             "result": {
-              "duration": 511579000,
+              "duration": 703711800,
               "status": "passed"
             },
             "line": 14,
@@ -415,7 +415,7 @@
           },
           {
             "result": {
-              "duration": 102887300,
+              "duration": 175912300,
               "status": "passed"
             },
             "line": 15,
@@ -433,7 +433,7 @@
           },
           {
             "result": {
-              "duration": 96768000,
+              "duration": 150230900,
               "status": "passed"
             },
             "line": 16,
@@ -451,7 +451,7 @@
           },
           {
             "result": {
-              "duration": 473000300,
+              "duration": 591491700,
               "status": "passed"
             },
             "line": 17,
@@ -463,11 +463,11 @@
           },
           {
             "result": {
-              "duration": 1395558000,
+              "duration": 1251137800,
               "status": "passed"
             },
             "line": 18,
-            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"Por favor, insira um nome completo.\"",
+            "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"Por favor, insira um nome completo.\"",
             "match": {
               "arguments": [
                 {
@@ -495,7 +495,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3311458700,
+              "duration": 5014709700,
               "status": "passed"
             },
             "line": 11,
@@ -508,7 +508,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-11T12:22:21.750Z",
+        "start_timestamp": "2021-03-11T13:48:27.584Z",
         "line": 26,
         "name": "Validar informações de preenchimento",
         "description": "",
@@ -518,7 +518,7 @@
         "steps": [
           {
             "result": {
-              "duration": 534624800,
+              "duration": 713939700,
               "status": "passed"
             },
             "line": 14,
@@ -536,7 +536,7 @@
           },
           {
             "result": {
-              "duration": 96481900,
+              "duration": 144338900,
               "status": "passed"
             },
             "line": 15,
@@ -554,7 +554,7 @@
           },
           {
             "result": {
-              "duration": 96090500,
+              "duration": 137943700,
               "status": "passed"
             },
             "line": 16,
@@ -572,7 +572,7 @@
           },
           {
             "result": {
-              "duration": 468455900,
+              "duration": 603276800,
               "status": "passed"
             },
             "line": 17,
@@ -584,11 +584,11 @@
           },
           {
             "result": {
-              "duration": 1417688800,
+              "duration": 1238261300,
               "status": "passed"
             },
             "line": 18,
-            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"Por favor, insira um e-mail válido.\"",
+            "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"Por favor, insira um e-mail válido.\"",
             "match": {
               "arguments": [
                 {
@@ -616,7 +616,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3501025300,
+              "duration": 3564369600,
               "status": "passed"
             },
             "line": 11,
@@ -629,7 +629,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-11T12:22:27.677Z",
+        "start_timestamp": "2021-03-11T13:48:35.440Z",
         "line": 27,
         "name": "Validar informações de preenchimento",
         "description": "",
@@ -639,7 +639,7 @@
         "steps": [
           {
             "result": {
-              "duration": 529978500,
+              "duration": 759832600,
               "status": "passed"
             },
             "line": 14,
@@ -657,7 +657,7 @@
           },
           {
             "result": {
-              "duration": 105087200,
+              "duration": 175821000,
               "status": "passed"
             },
             "line": 15,
@@ -675,7 +675,7 @@
           },
           {
             "result": {
-              "duration": 86200900,
+              "duration": 153392300,
               "status": "passed"
             },
             "line": 16,
@@ -693,7 +693,7 @@
           },
           {
             "result": {
-              "duration": 475239800,
+              "duration": 582730600,
               "status": "passed"
             },
             "line": 17,
@@ -705,11 +705,11 @@
           },
           {
             "result": {
-              "duration": 1094146700,
+              "duration": 1267150600,
               "status": "passed"
             },
             "line": 18,
-            "name": "verifico se n�o consigo logar sem preenchimento de algum campo obrigat�rio atrav�s da \"A senha deve conter ao menos 8 caracteres.\"",
+            "name": "verifico se não consigo logar sem preenchimento de algum campo obrigatório através da \"A senha deve conter ao menos 8 caracteres.\"",
             "match": {
               "arguments": [
                 {
@@ -737,7 +737,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3388877000,
+              "duration": 3689857300,
               "status": "passed"
             },
             "line": 11,
@@ -750,7 +750,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-11T12:22:33.471Z",
+        "start_timestamp": "2021-03-11T13:48:41.947Z",
         "line": 42,
         "name": "Cadastrar usuário",
         "description": "",
@@ -760,7 +760,7 @@
         "steps": [
           {
             "result": {
-              "duration": 229867400,
+              "duration": 327786400,
               "status": "passed"
             },
             "line": 32,
@@ -772,7 +772,7 @@
           },
           {
             "result": {
-              "duration": 536294800,
+              "duration": 706407800,
               "status": "passed"
             },
             "line": 33,
@@ -790,7 +790,7 @@
           },
           {
             "result": {
-              "duration": 104453900,
+              "duration": 164961200,
               "status": "passed"
             },
             "line": 34,
@@ -808,7 +808,7 @@
           },
           {
             "result": {
-              "duration": 88654400,
+              "duration": 156867900,
               "status": "passed"
             },
             "line": 35,
@@ -826,7 +826,7 @@
           },
           {
             "result": {
-              "duration": 410936600,
+              "duration": 491789000,
               "status": "passed"
             },
             "line": 36,
@@ -838,7 +838,7 @@
           },
           {
             "result": {
-              "duration": 749594200,
+              "duration": 478910600,
               "status": "passed"
             },
             "line": 37,
@@ -856,7 +856,7 @@
           },
           {
             "result": {
-              "duration": 856415100,
+              "duration": 723906700,
               "status": "passed"
             },
             "line": 38,
@@ -882,7 +882,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3350408100,
+              "duration": 3755041100,
               "status": "passed"
             },
             "line": 11,
@@ -895,7 +895,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-03-11T12:22:39.840Z",
+        "start_timestamp": "2021-03-11T13:48:48.693Z",
         "line": 43,
         "name": "Cadastrar usuário",
         "description": "",
@@ -905,7 +905,7 @@
         "steps": [
           {
             "result": {
-              "duration": 217558000,
+              "duration": 243020900,
               "status": "passed"
             },
             "line": 32,
@@ -917,7 +917,7 @@
           },
           {
             "result": {
-              "duration": 537997700,
+              "duration": 700926000,
               "status": "passed"
             },
             "line": 33,
@@ -935,7 +935,7 @@
           },
           {
             "result": {
-              "duration": 98584500,
+              "duration": 162547600,
               "status": "passed"
             },
             "line": 34,
@@ -953,7 +953,7 @@
           },
           {
             "result": {
-              "duration": 92371100,
+              "duration": 148435200,
               "status": "passed"
             },
             "line": 35,
@@ -971,7 +971,7 @@
           },
           {
             "result": {
-              "duration": 412489600,
+              "duration": 486319500,
               "status": "passed"
             },
             "line": 36,
@@ -983,7 +983,7 @@
           },
           {
             "result": {
-              "duration": 731526900,
+              "duration": 464823900,
               "status": "passed"
             },
             "line": 37,
@@ -1001,7 +1001,7 @@
           },
           {
             "result": {
-              "duration": 639015700,
+              "duration": 733227000,
               "status": "passed"
             },
             "line": 38,

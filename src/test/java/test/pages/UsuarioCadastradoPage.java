@@ -7,7 +7,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import test.core.BasePage;
-import tests.util.Captures;
 
 public class UsuarioCadastradoPage extends BasePage {
 
@@ -19,8 +18,6 @@ public class UsuarioCadastradoPage extends BasePage {
 		wait.until(ExpectedConditions
 				.presenceOfElementLocated(By.xpath("//div//h2[contains(text(),'Usuários cadastrados')]")));
 
-		Captures captures = new Captures();
-		captures.screenshot("1 Acessar Home");
 		return super.obterTexto(usuarioCadastrado);
 	}
 
