@@ -29,7 +29,6 @@ Exemplos:
 
 
 Esquema do Cenário: Cadastrar usuário 
-		Dado que estou no site da Stefanini
     E preencho <nome>
     E preencho o <email>
     E preencho a <senha>

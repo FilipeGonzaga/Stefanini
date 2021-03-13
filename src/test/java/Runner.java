@@ -8,10 +8,9 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		features = "D:\\dimi_\\Area de Trabalho\\aulas\\cucumber\\Stefanini\\src\\test\\java\\CadastroUsuarios.feature",
-		//features = "D:\\dimi_\\Area de Trabalho\\aulas\\cucumber\\Stefanini\\src\\test\\java\\Cadastrar.feature",
 		tags = {"@automacao"},
 		plugin = {"pretty", "html:target/report-html", "json:target/report.json"},
-		monochrome = false,
+		monochrome = true,
 		snippets = SnippetType.CAMELCASE,
 		dryRun = false,
 		strict = false

@@ -67,7 +67,7 @@ public class HomePage extends BasePage {
 			return super.obterTexto(textoSemNome);
 		} catch (Exception e) {
 			try {
-				return	super.obterTexto(textoSemEmail);
+				return super.obterTexto(textoSemEmail);
 
 			} catch (Exception e1) {
 				return super.obterTexto(textoSenha);

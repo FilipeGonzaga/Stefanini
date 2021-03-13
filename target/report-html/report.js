@@ -553,10 +553,6 @@ formatter.scenarioOutline({
   "keyword": "Esquema do Cenário"
 });
 formatter.step({
-  "name": "que estou no site da Stefanini",
-  "keyword": "Dado "
-});
-formatter.step({
   "name": "preencho \u003cnome\u003e",
   "keyword": "E "
 });
@@ -635,16 +631,6 @@ formatter.scenario({
       "name": "@automacao"
     }
   ]
-});
-formatter.step({
-  "name": "que estou no site da Stefanini",
-  "keyword": "Dado "
-});
-formatter.match({
-  "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
-});
-formatter.result({
-  "status": "passed"
 });
 formatter.step({
   "name": "preencho \"Filipe Gonzaga Costa da Silva\"",
@@ -730,16 +716,6 @@ formatter.scenario({
       "name": "@automacao"
     }
   ]
-});
-formatter.step({
-  "name": "que estou no site da Stefanini",
-  "keyword": "Dado "
-});
-formatter.match({
-  "location": "CadastroUsuarios.que_estou_no_site_da_Stefanini()"
-});
-formatter.result({
-  "status": "passed"
 });
 formatter.step({
   "name": "preencho \"Luiz Gonzaga da Silva\"",
